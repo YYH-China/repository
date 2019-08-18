@@ -24,7 +24,7 @@
         <video src="" width="320" height="240" controls>由于无欧阳王圳的视频素材，此视频无法播放</video><h3>由于无欧阳王圳的视频素材，此视频无法播放</h3>
       </div>
       <div>
-        <p><strong>本文 开源代码（编码者：Yang yuanhao）</strong> <br><a href="" target="_blank">此文源代码已存放置GitHub</a></p>
+        <p><strong>本文 开源代码（编码者：Yang yuanhao）</strong> <br><a href="https://github.com/YYH-China/repository/blob/master/README.md" target="_blank">此文源代码已存放置GitHub</a></p>
       </div >
   </body>
 </html>
